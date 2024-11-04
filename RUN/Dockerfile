@@ -1,2 +1,2 @@
-FROM alminelinux:9.4
+FROM almalinux:9.4
 RUN dnf install ngnix -y
